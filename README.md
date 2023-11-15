@@ -1,4 +1,4 @@
 # adnan
 this is my first personal project repository
 <br>
-Author- Mohammad Adnan Shariff
+Author- Mohammad Adnan Shari
